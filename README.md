@@ -15,7 +15,8 @@ In this project i used **SQL workbench** for exploratory data analysis.
 
 
 ## DEMO 
-
+![alt text](https://github.com/Mandeepsingh666/Power-BI-Sales-analysis-/blob/master/Sales_1_demo.gif?raw=true)
+![alt text](https://github.com/Mandeepsingh666/Power-BI-Sales-analysis-/blob/master/Sales_2_demo.gif?raw=true)
 
 ## Installation
 For this project I used SQL workbench And Microsoft Power BI. SQL workbench is available across all platforms including Mac OS and Microsoft Windows. Power BI Is only available on Microsoft Windows .
