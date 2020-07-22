@@ -1,4 +1,12 @@
 # Power-BI-Sales-analysis-
+- [Power-BI-Sales-analysis-](#power-bi-sales-analysis-)
+  * [Overview](#overview)
+  * [Motivation](#motivation)
+  * [Technical Aspects](#technical-aspects)
+  * [DEMO](#demo)
+  * [Installation](#installation)
+  * [Technologies Used](#technologies-used)
+
 
 
 ## Overview 
