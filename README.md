@@ -19,3 +19,7 @@ In this project i used **SQL workbench** for exploratory data analysis.
 
 ## Installation
 For this project I used SQL workbench And Microsoft Power BI. SQL workbench is available across all platforms including Mac OS and Microsoft Windows. Power BI Is only available on Microsoft Windows .
+
+## Technologies Used
+<img src="https://roaringapps.s3.amazonaws.com/assets/icons/1373937913794-mysql-workbench.png" width="130">
+<img src="https://seekvectorlogo.com/wp-content/uploads/2018/12/power-bi-vector-logo.png" width="130">
